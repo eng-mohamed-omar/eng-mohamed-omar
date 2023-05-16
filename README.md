@@ -6,7 +6,7 @@ Cloud and DevOps Engineer
 
 I'm a DevOps and Cloud Engineer and designer, I help companies create and maintain their infrastructure on the premise as well as in the cloud.
 
-* 🌍  I'm based in Cairo, Egypt
+* 🌍  I'm based in Riyadh, Saudi Arabia 
 * ✉️  You can contact me at [eng.mohamed.y.omar@gmail.com](mailto:eng.mohamed.y.omar@gmail.com)
 * 🧠  I'm learning API monitoring and development.
 * 🤝  I'm open to collaborating on SaaS and microservices project
